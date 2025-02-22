@@ -1,4 +1,4 @@
-### 🏆 **Calculadora de Média de Notas**###
+### 🏆 **Calculadora de Média de Notas** ###
  
 
 📎 Sumario

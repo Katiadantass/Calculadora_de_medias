@@ -1,7 +1,7 @@
 ### 🏆 **Calculadora de Média de Notas** ###
  
 
-📎 Sumario
+### 📎 **Sumario** ###
 
 •	📌 Resumo do Projeto
 
@@ -15,11 +15,11 @@
 
 •	🙋🏻‍♂‍ Autora
 
-📌 Resumo do Projeto
+### 📌 **Resumo do Projeto** ###
 
 Este Projeto consiste na criação de uma app para calcular a média de notas de alunos, onde o usuário deverá inserir o tipo de atividade (ex: prova de matemática, lista de revisão) e as notas das atividades, onde o app irá informar se o aluno foi aprovado e se as notas estão dentro da média ou abaixo de acordo com o input inicial do usuário ao abrir a página, para determinar a média mínima para cálculo.
 
-⭐ Features
+### ⭐ **Features** ###
 
 •	Opção de inserir a média mínima para o cáculo;
 
@@ -38,7 +38,7 @@ Este Projeto consiste na criação de uma app para calcular a média de notas de
 •	Bloqueio para inserção de nomes de atividades duplicados;
 
 
-📂 Temas abordados
+### 📂 **Temas abordados** ###
 
 •	HTML semântico;
 
@@ -57,13 +57,13 @@ Este Projeto consiste na criação de uma app para calcular a média de notas de
 •	Inserir HTML e valores de forma dinâmica no documento com JavaScript;
 
 
-✔️ Tecnologias Utilizadas
+### ✔️ **Tecnologias Utilizadas** ###
   
 
-💻 Demonstração
+### 💻 **Demonstração** ###
 
 Para visualizar uma prévia do projeto 
 
-🙋🏻‍♂‍ Autora
+### 🙋🏻‍♂‍ **Autora** ###
 
 [Katiadantass](https://github.com/Katiadantass)

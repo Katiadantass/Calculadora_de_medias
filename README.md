@@ -1,4 +1,4 @@
-### 🏆 **Calculadora de Média de Notas** ###
+#### 🏆 **Calculadora de Média de Notas** ####
  
 
 ### 📎 **Sumario** ###
@@ -64,6 +64,6 @@ Este Projeto consiste na criação de uma app para calcular a média de notas de
 
 Para visualizar uma prévia do projeto 
 
-### 🙋🏻‍♂‍ **Autora** ###
+### 🙋‍ **Autora** ###
 
 [Katiadantass](https://github.com/Katiadantass)

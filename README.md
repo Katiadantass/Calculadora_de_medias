@@ -62,7 +62,7 @@ Este Projeto consiste na criação de uma app para calcular a média de notas de
 
 ### 💻 **Demonstração** ###
 
-Para visualizar uma prévia do projeto 
+Para visualizar uma prévia do projeto https://calculadora-de-medias-psi-seven.vercel.app/
 
 ### 🙋‍ **Autora** ###
 
